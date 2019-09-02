@@ -1,0 +1,106 @@
+@charset "UTF-8";
+/* ----------------------------------------------------------------------------------------------------
+*  フリープラン登録フォーム用
+* --------------------------------------------------------------------------------------------------*/
+body{
+	background: #f8f8f8;
+	padding: 0;
+	font-size: 1.4rem;
+}
+/* ----------------------------------------------------------------------------------------------------
+*  header
+* --------------------------------------------------------------------------------------------------*/
+header{
+	width: 100%;
+	background: #fff;
+	margin-bottom: 40px;
+	position: relative;
+}
+header .wrap{padding: 15px 4%;}
+
+header:after{
+	content: "";
+	width: 100%;
+	height: 5px;
+	display: block;
+	position: absolute;
+	bottom: 0px;
+	background: #39b4d8; /* Old browsers */
+	background: -moz-linear-gradient(left, #39b4d8 0%, #0e7ac4 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #39b4d8 0%,#0e7ac4 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #39b4d8 0%,#0e7ac4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#39b4d8', endColorstr='#0e7ac4',GradientType=1 ); /* IE6-9 */
+}
+/*----logo------------------------------*/
+header img{width: 160px;}
+
+.freeform_wrap{
+	width: 92%;
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 40px 30px 60px;
+	background: #fff;
+	border-radius: 10px;
+	border:1px solid #e1e1e1;
+}
+.freeform_wrap h2{
+	font-weight: bold;
+	font-size: 2.2rem;
+	padding: 20px 0 10px;
+	border-bottom: 1px solid #ddd;
+	margin-bottom: 30px;
+}
+
+footer{
+	margin-top: 40px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-size: 1.2rem;
+}
+@media screen and (min-width: 769px) {
+	.form_lead{padding-bottom: 40px;}
+}
+@media screen and (max-width: 768px) {
+	header{margin-bottom: 20px;}
+	header img{width: 90px;}
+
+	footer{font-size: 1rem; margin-top: 15px;}
+	.freeform_wrap{
+		padding: 30px 4%;
+	}
+	.freeform_wrap h2{
+		font-size: 1.6rem;
+		padding: 0px 0 5px;
+		margin-bottom: 20px;
+	}	
+}
+/* ------------------------------
+   form
+------------------------------ */
+.input_sdomain{
+	width: 50%;
+	display: inline-block;
+	margin: 0 5px;
+}
+
+
+/*
+@media screen and (min-width: 769px) {
+	.tbl_form{margin-bottom: 40px;}
+	.tbl_form th, .tbl_form td{
+		width: 100%;
+		display: block;
+	}
+	.tbl_form th,.tbl_form tr:first-child th{padding: 0  0 10px;}
+	.tbl_form th p{padding-left:8px;}
+	.tbl_form td{border-top: none; padding-top: 0; padding-bottom: 15px;}
+
+	.form_kiyaku{
+		width: 100%;
+		padding: 10px 20px;
+		margin-bottom: 30px;
+	}
+	.btnWh{font-size: 1.8rem; line-height: 46px;}
+	.btnWh_s{font-size: 1.3rem; line-height: 22px;}
+}
+*/

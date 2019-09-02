@@ -1,0 +1,207 @@
+# Translation of Plugins - Post Date Time Change - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Post Date Time Change - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-06 13:56:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Post Date Time Change - Stable (latest release)\n"
+
+#. translators: FAQ Link & Slug
+#: lib/class-postdatetimechange.php:388
+msgid "https://wordpress.org/plugins/%s/faq"
+msgstr "https://ja.wordpress.org/plugins/%s/faq"
+
+#: lib/class-postdatetimechange.php:871
+msgid "https://shop.riverforest-wp.info/post-date-time-change-add-on-custompost/"
+msgstr "https://shop-jp.riverforest-wp.info/post-date-time-change-add-on-custompost/"
+
+#: lib/class-postdatetimechange.php:847
+msgid "All Replies"
+msgstr "返信一覧"
+
+#: lib/class-postdatetimechange.php:846
+msgid "All Topics"
+msgstr "トピック一覧"
+
+#: lib/class-postdatetimechange.php:845
+msgid "All Forums"
+msgstr "フォーラム一覧"
+
+#: lib/class-postdatetimechange.php:844
+msgid "All Products"
+msgstr "すべての商品"
+
+#: lib/class-postdatetimechange.php:843
+msgid "Orders"
+msgstr "受注"
+
+#: lib/class-postdatetimechange.php:840
+msgid "Example"
+msgstr "例"
+
+#: lib/class-postdatetimechange.php:838
+msgid "This Add-on adds a custom post type that allows you to change the date and time with \"Post Date Time Change\"."
+msgstr "このアドオンは、「Post Date Time Change」で日付と時刻を変更できるカスタム投稿タイプを追加します。"
+
+#: lib/class-postdatetimechange.php:829 lib/class-postdatetimechange.php:871
+msgid "BUY"
+msgstr "購入"
+
+#: lib/class-postdatetimechange.php:829
+msgid "https://shop.riverforest-wp.info/post-date-time-change-add-on-exif/"
+msgstr "https://shop-jp.riverforest-wp.info/post-date-time-change-add-on-exif/"
+
+#: lib/class-postdatetimechange.php:821 lib/class-postdatetimechange.php:863
+msgid "Deactivated"
+msgstr "無効化されています。"
+
+#: lib/class-postdatetimechange.php:819 lib/class-postdatetimechange.php:861
+msgid "Activated"
+msgstr "有効化されています。"
+
+#: lib/class-postdatetimechange.php:814 lib/class-postdatetimechange.php:856
+msgid "Installed"
+msgstr "インストールされています。"
+
+#: lib/class-postdatetimechange.php:807
+msgid "This Add-on adds that allows you to use the Exif shooting date and time by \"Post Date Time Change\", if the media has Exif shooting date and time."
+msgstr "このアドオンを追加すると、メディアに Exif 撮影日時がある場合、Exif 撮影日時を「Post Date Time Change」で使用することができます。"
+
+#: lib/class-postdatetimechange.php:343
+msgid "Changes saved."
+msgstr "変更が保存されました。"
+
+#: lib/class-postdatetimechange.php:281
+msgid "Add"
+msgstr "追加"
+
+#: lib/class-postdatetimechange.php:273
+msgid "Post Type"
+msgstr "投稿タイプ"
+
+#: lib/class-postdatetimechange.php:249 lib/class-postdatetimechange.php:281
+msgid "Add On is required."
+msgstr "アドオンが必要です。"
+
+#: lib/class-postdatetimechange.php:217 lib/class-postdatetimechange.php:803
+msgid "Add On"
+msgstr "アドオン"
+
+#: lib/class-postdatetimechange.php:249
+msgid "Exif Shooting Date Time"
+msgstr "Exif 撮影日時"
+
+#: lib/class-postdatetimechange.php:401
+msgid "FAQ"
+msgstr "FAQ"
+
+#: lib/class-postdatetimechange.php:395
+msgid "https://shop.riverforest-wp.info/donate/"
+msgstr "https://shop-jp.riverforest-wp.info/ja/donate/"
+
+#. translators: Plugin translation link
+#: lib/class-postdatetimechange.php:407
+msgid "Translations for %s"
+msgstr "%s の翻訳"
+
+#: lib/class-postdatetimechange.php:272
+msgid "Only Modified"
+msgstr "最終更新日時のみ"
+
+#: lib/class-postdatetimechange.php:266
+msgid "Only Posted"
+msgstr "投稿日時のみ"
+
+#: lib/class-postdatetimechange.php:260
+msgid "Posted And Modified"
+msgstr "投稿日時と最終更新日時"
+
+#: lib/class-postdatetimechange.php:254
+msgid "Change"
+msgstr "変更"
+
+#: lib/class-postdatetimechange.php:285
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: lib/class-postdatetimechange.php:240 lib/class-postdatetimechange.php:433
+#: lib/class-postdatetimechange.php:480
+msgid "Last updated"
+msgstr "最終更新日時"
+
+#: lib/class-postdatetimechange.php:234 lib/class-postdatetimechange.php:435
+#: lib/class-postdatetimechange.php:482
+msgid "Posted"
+msgstr "投稿日時"
+
+#. translators: %1$s: success count
+#: lib/class-postdatetimechange.php:784
+msgid "%1$d updated."
+msgstr "%1$d個更新しました。"
+
+#: lib/class-postdatetimechange.php:433 lib/class-postdatetimechange.php:435
+#: lib/class-postdatetimechange.php:480 lib/class-postdatetimechange.php:482
+msgid "Date and time"
+msgstr "日付と時刻"
+
+#. Author URI of the plugin
+msgid "https://riverforest-wp.info/"
+msgstr "https://riverforest-wp.info/ja/"
+
+#. Author of the plugin
+msgid "Katsushi Kawamori"
+msgstr "Katsushi Kawamori"
+
+#. Description of the plugin
+msgid "Collectively change the date and time of each article of post or page or media library."
+msgstr "ポストやページまたはメディアライブラリの各記事の日付と時刻を変更します。"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/post-date-time-change/"
+msgstr "https://ja.wordpress.org/plugins/post-date-time-change/"
+
+#. Plugin Name of the plugin
+msgid "Post Date Time Change"
+msgstr "Post Date Time Change"
+
+#: lib/class-postdatetimechange.php:414
+msgid "Please make a donation if you like my work or would like to further the development of this plugin."
+msgstr "私はプラグインの開発とサポートを継続させるために寄付を必要としています。"
+
+#: lib/class-postdatetimechange.php:401
+msgid "Reviews"
+msgstr "レビュー"
+
+#: lib/class-postdatetimechange.php:401
+msgid "Support Forums"
+msgstr "サポートフォーラム"
+
+#: lib/class-postdatetimechange.php:386
+msgid "Version:"
+msgstr "バージョン:"
+
+#: lib/class-postdatetimechange.php:227
+msgid "View"
+msgstr "表示"
+
+#: lib/class-postdatetimechange.php:579 lib/class-postdatetimechange.php:580
+msgid "Change the date and time"
+msgstr "日付と時刻を変更します"
+
+#: lib/class-postdatetimechange.php:218 lib/class-postdatetimechange.php:416
+msgid "Donate to this plugin &#187;"
+msgstr "このプラグインに寄付 &#187;"
+
+#: lib/class-postdatetimechange.php:198
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするために、十分なアクセス権利を持っていません。"
+
+#: lib/class-postdatetimechange.php:116 lib/class-postdatetimechange.php:216
+#: lib/class-postdatetimechange.php:343
+msgid "Settings"
+msgstr "設定"
